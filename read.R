@@ -1,4 +1,8 @@
 
+###
+### function to read the data
+### the file is expected to be in the same folder than the code
+###
 
 readData<-function() {
   #
